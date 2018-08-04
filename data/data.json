@@ -1,0 +1,82 @@
+{
+  "profiles":[
+    {
+      "id":1,
+      "name":"Thumburu Thirumalesam",
+      "label":"MCA",
+      "company":"Infosys",
+      "image":"img/2.png"
+
+    },
+    {
+      "id":2,
+      "name":"Hemanth",
+      "label":"M.TECH",
+      "company":"Polaris",
+      "image":"img/2.png"
+
+    },
+    {
+      "id":3,
+      "name":"Vinay kumar",
+      "label":"B.Tech",
+      "company":"Google",
+      "image":"img/2.png"
+
+    }
+    ],
+  "career":{
+    "info":"To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective. An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Computer Engineering."
+},
+  "education":[
+    {
+          "degree":"B-tech",
+          "institute":"Sietk",
+          "data":["2017-20","85%"]
+    },
+    {
+          "degree":"Intermediate/Diploma",
+          "institute":"Himaja College",
+          "data":["2012-17","93%"]
+    },
+    {
+          "degree":"School",
+          "institute":"z.p.h.s",
+          "data":["2013","8.8"]
+    }
+
+  ],
+    "achievements":[
+      {
+          "name":"certified in <strong> C </strong> by <strong> IIT CHENNAI </strong>"
+        },
+        {  "name":"Achieved<strong> 1<sup>st</sup></strong> in<q> PPT </q>at Siddhartha inistiyute of engineering and technology"
+      }
+
+
+    ],
+    "technical":[
+      {
+        "name":"Pragramming languages",
+        "data":"[python,Java,C,C++]"
+      },
+      {
+        "name":"Data bases",
+        "data":"[MySql,Oracle,nosql]"
+      },
+      {
+        "name":"Web Technologies",
+        "data":"[HTML,Javascript,CSS]"
+      },
+      {
+        "name":"server-side Scripting",
+        "data":"[PHP,perl,ASP]"
+      },
+      {
+        "name":"Android Studio",
+        "data":["Tool"]
+      }
+
+    ]
+
+}
